@@ -13,7 +13,7 @@ A simple backend for a note-taking app with user authentication and notes manage
 
 1. **Clone the repo & install dependencies:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Aryannnn-n/Notes-Api.git
    cd notes-api
    npm install
    ```
